@@ -1,0 +1,2 @@
+public class CommandFactoryTest {
+}
